@@ -34,3 +34,5 @@ For real-time OTP verification, Firebase requires the **Blaze plan**, which is a
 - Support verification in multiple regions.  
 
 To upgrade, navigate to Firebase Console → Billing → Upgrade to Blaze. Pricing varies based on usage, so it is recommended to monitor usage to avoid unexpected charges.
+
+And sorry guys some issue with Json file so after  cloning make sure to fix that one 
